@@ -1,0 +1,63 @@
+INCIDENT_CLASSIFICATION,num_of_incidents
+Medical - Assist Civilian,82878
+Assist Civilian - Non-Medical,35513
+Odor - Other Than Smoke,13295
+Utility Emergency - Gas,10980
+Alarm System - Defective,9140
+Utility Emergency - Water,9046
+Vehicle Accident - Other,6150
+Medical - EMS Link 10-91,5721
+Alarm System - Unnecessary,5255
+Utility Emergency - Electric,4758
+Medical - PD Link 10-91,4552
+Multiple Dwelling 'A' - Food on the stove fire,4391
+Carbon Monoxide - Code 1 - Investigation,4055
+Non-Medical MFA - Phone,3754
+Private Dwelling Fire,3263
+Demolition Debris or Rubbish Fire,2989
+Odor - Other Smoke,2186
+Multiple Dwelling 'A' - Other fire,2127
+Alarm System - Testing,1674
+Other Commercial Building Fire,1473
+Utility Emergency - Steam,1462
+Manhole Fire - Seeping Smoke,1313
+Non-Medical MFA - Private Fire Alarm,1143
+Carbon Monoxide - Code 2 - Incident (1-9 ppm),1071
+Undefined Emergency,1024
+Defective Oil Burner,928
+Sprinkler System - Malfunction,880
+Carbon Monoxide - Code 3 - Emergency (over 9 ppm),837
+Automobile Fire,789
+Multiple Dwelling 'B' Fire,784
+Manhole Fire - Other,672
+Medical MFA - PD Link,672
+Medical MFA - EMS Link,640
+Brush Fire,510
+Sprinkler System - Working on System,437
+Non-Medical 10-91 (Unnecessary Alarm),435
+School Fire,308
+Multiple Dwelling 'A' - Compactor fire,198
+Hospital Fire,184
+Vehicle Accident - With Extrication,170
+Manhole Fire - Blown Cover,144
+Store Fire,136
+Sprinkler System - Other,98
+Utility Emergency - Undefined,94
+Transit System - NonStructural,90
+Non-Medical MFA - ERS,81
+Church Fire,74
+Other Public Building Fire,71
+Carbon Monoxide - No Code,66
+Carbon Monoxide - Code 4 - No Detector Activation,60
+Other Transportation Fire,58
+Non-Medical MFA - Verbal,45
+Transit System Emergency,31
+Untenanted Building Fire,30
+Abandoned Derelict Vehicle Fire,26
+Sprinkler System - Activated,24
+Factory Fire,23
+Construction or Demolition Building Fire,18
+Theater or TV Studio Fire,15
+Non-Medical MFA - ERS No Contact,5
+Non-Medical MFA - BARS,2
+Transit System - Structural,2
