@@ -1,0 +1,15 @@
+use pig, hadoop, map reduce
+
+pig query, spark query
+
+bike ration per city- top 10 areas
+
+then find insights
+
+combine with weather data- then find observations
+
+visualization- shiny, excel, matplotlib, tableau
+
+netflix data/ yelp data/ city bike data/ airbnb data/ taxi data/ subway data
+
+use hpc cluster- use small dataset first, then use full dataset to test.
